@@ -8,8 +8,8 @@ from config.data.emotions import (
 )
 
 EMOTION_STAGES = {
-    "happy": {1
-        : "Happy",
+    "happy": {
+        1: "Happy",
         2: "Ecstatic",
         3: "Manic"
     },
